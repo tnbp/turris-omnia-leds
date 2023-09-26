@@ -1,5 +1,5 @@
 # turris-omnia-leds
-Lets you control the LEDs of your Turris Omnia, **even on vanilla openWRT**.
+Lets you control the LEDs of your Turris Omnia, **even on vanilla OpenWrt**.
 
 This is a replacement for Turris OS's "rainbow" script which lets you control the status, color and brightness of your Turris Omnia's LEDs.
 
